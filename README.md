@@ -1,2 +1,2 @@
-# TacoFinder
-Creating an application to find the best tacos near me
+# Taco Finder App
+Best application to find the best tacos near me
